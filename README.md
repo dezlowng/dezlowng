@@ -10,7 +10,7 @@
 
 ### Links to me:
 
-#### Youtube -> [Youtube]:https://www.youtube.com/channel/UCYV8min3NRKlG51P2GfZnKg/
+[Youtube]:https://www.youtube.com/channel/UCYV8min3NRKlG51P2GfZnKg/
 
 #### Twitter -> https://twitter.com/DezlowNG/
 
