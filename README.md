@@ -1,16 +1,21 @@
-### Hi there 👋
+# Dream without dream - is a not dream.
 
-<!--
-**dezlowng/dezlowng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Inspired: HoneyComeBear, Gigguk, CY8ER.
 
-Here are some ideas to get you started:
+## The main in life: Perfecting the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## The main in people: Kindness and honesty.
+
+## Interests: Anime, Manga, Visual Novels, Music
+
+### Links to me:
+
+#### Youtube -> [Youtube]:https://www.youtube.com/channel/UCYV8min3NRKlG51P2GfZnKg/
+
+#### Twitter -> https://twitter.com/DezlowNG/
+
+#### Facebook -> https://facebook.com/dezlowfb/
+
+#### VK -> https://vk.com/dezlow/
+
+#### Spotify -> https://open.spotify.com/user/31z32d5odfyuyyykagdvmfpzhwpy/
