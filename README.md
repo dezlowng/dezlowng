@@ -10,7 +10,7 @@
 
 **Interests:** Anime, Manga, Visual Novels, Music
 
-Links to me:
+**Links to me:**
 
 [Youtube](https://www.youtube.com/channel/UCYV8min3NRKlG51P2GfZnKg/)
 
