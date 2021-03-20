@@ -1,21 +1,23 @@
 # Dream without dream - is a not dream.
 
-## Inspired: HoneyComeBear, Gigguk, CY8ER.
+![dezlow_image_profile](https://user-images.githubusercontent.com/74720936/111875572-12b3b400-89cd-11eb-87cc-50d0496a04f8.jpg)
 
-## The main in life: Perfecting the world.
+**Inspired:** HoneyComeBear, Gigguk, CY8ER.
 
-## The main in people: Kindness and honesty.
+**The main in life:** Perfecting the world.
 
-## Interests: Anime, Manga, Visual Novels, Music
+**The main in people:** Kindness and honesty.
 
-### Links to me:
+**Interests:** Anime, Manga, Visual Novels, Music
 
-[Youtube]:https://www.youtube.com/channel/UCYV8min3NRKlG51P2GfZnKg/
+Links to me:
 
-#### Twitter -> https://twitter.com/DezlowNG/
+[Youtube](https://www.youtube.com/channel/UCYV8min3NRKlG51P2GfZnKg/)
 
-#### Facebook -> https://facebook.com/dezlowfb/
+[Twitter](https://twitter.com/DezlowNG/)
 
-#### VK -> https://vk.com/dezlow/
+[Facebook](https://facebook.com/dezlowfb/)
 
-#### Spotify -> https://open.spotify.com/user/31z32d5odfyuyyykagdvmfpzhwpy/
+[VK](https://vk.com/dezlow/)
+
+[Spotify](https://open.spotify.com/user/31z32d5odfyuyyykagdvmfpzhwpy/)
