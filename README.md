@@ -8,16 +8,10 @@
 
 **The main in people:** Kindness and honesty.
 
-**Interests:** Anime, Manga, Visual Novels, Music
+**Interests:** Anime, Manga, Visual Novels, Music.
 
 **Links to me:**
 
-[Youtube](https://www.youtube.com/channel/UCYV8min3NRKlG51P2GfZnKg/)
+[Youtube](https://www.youtube.com/channel/UCYV8min3NRKlG51P2GfZnKg/)    [Spotify](https://open.spotify.com/user/31z32d5odfyuyyykagdvmfpzhwpy/)
 
-[Twitter](https://twitter.com/DezlowNG/)
-
-[Facebook](https://facebook.com/dezlowfb/)
-
-[VK](https://vk.com/dezlow/)
-
-[Spotify](https://open.spotify.com/user/31z32d5odfyuyyykagdvmfpzhwpy/)
+[Twitter](https://twitter.com/DezlowNG/)      [Facebook](https://facebook.com/dezlowfb/)
