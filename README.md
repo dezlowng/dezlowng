@@ -12,6 +12,6 @@
 
 **Links to me:**
 
-[Youtube](https://www.youtube.com/channel/UCYV8min3NRKlG51P2GfZnKg/)    [Spotify](https://open.spotify.com/user/31z32d5odfyuyyykagdvmfpzhwpy/)
+[Youtube](https://www.youtube.com/channel/UCYV8min3NRKlG51P2GfZnKg/)  |  [Spotify](https://open.spotify.com/user/31z32d5odfyuyyykagdvmfpzhwpy/)
 
-[Twitter](https://twitter.com/DezlowNG/)      [Facebook](https://facebook.com/dezlowfb/)
+[Twitter](https://twitter.com/DezlowNG/)   |   [Facebook](https://facebook.com/dezlowfb/)
