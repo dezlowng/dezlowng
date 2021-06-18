@@ -1,6 +1,6 @@
 # Dream without dream — is a not dream.
 
-![dezlow](https://user-images.githubusercontent.com/74720936/111895729-197f0d00-8a47-11eb-8a3b-c972f9bdbfac.jpg)
+![mtdru](https://user-images.githubusercontent.com/74720936/122591769-a446c680-d08d-11eb-9a2b-3ac2de6f1f7a.png)
 
 Hello, my name is Nikita, I was born in the city of Krasnoyarsk (Russia) and I love programming in C++ (seriously), and I also love listening to music and playing games (rarely, since this is a waste of time IMHO).
 Now I study computer graphics and everything related to it, as I want to write my own game engine in the future. I hope I succeed :)
