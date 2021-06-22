@@ -9,9 +9,9 @@ Now I study computer graphics and everything related to it, as I want to write m
 
 **Interests** — Programming, games, music
 
-**The main** in life — Perfecting the world
+**The main in life** — Perfecting the world
 
-**The main** in people — Kindness and honesty
+**The main in people** — Kindness and honesty
 
 **Inspired** — µ's, HoneyComeBear, CY8ER, The Cherno
 
