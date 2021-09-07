@@ -1,4 +1,3 @@
-<h1 align="center">Dream without dream — is a not dream.</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
@@ -10,7 +9,6 @@
 <h3 align="center">Interests — Programming, computer science and music</h3>
 <h3 align="center">The main in life — Perfecting the world</h3>
 <h3 align="center">The main in people — Kindness and honesty</h3>
-<h3 align="center">I Engine Developer at OneiroWorks</h3>
 
 #
 
