@@ -22,6 +22,15 @@
   <a href="https://t.me/dezlow"><img src="https://user-images.githubusercontent.com/74720936/132041660-8292fac7-5af8-41b1-ae5d-c47ebec0f139.png" width="68" height="68" hspace="5"vspace="5"></a>
 </p>
 
+#
+
+<h1 align="center">Support me:</h1>
+<p align="center">
+  <a href="https://www.patreon.com/dezlow"><img src="https://user-images.githubusercontent.com/74720936/132947453-90146f5a-1746-4c1b-a407-a541223391d5.png"></a>
+</p>
+
+#
+
 <h1 align="center">Stats:</h1>
 <p align="center">
   <a href="https://wakatime.com/@Dezlow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dezlow&langs_count=5&theme=dark&range=all_time" hspace="5"vspace="5"></a>
