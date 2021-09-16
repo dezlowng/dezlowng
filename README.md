@@ -14,19 +14,20 @@
 
 <h1 align="center">Links to me:</h1>
 <p align="center">
-  <a href="https://twitter.com/DezlowNG/"><img src="https://user-images.githubusercontent.com/74720936/132025348-86714aa5-f553-4f39-9416-fb3d89dbefd1.png" width="80" height="64" hspace="5"vspace="5"></a>
-  <a href="https://facebook.com/dezlowfb/"><img src="https://user-images.githubusercontent.com/74720936/132026072-5661a1ce-0dfd-46e2-8422-fab80eae793c.png" width="66" height="66" hspace="5"vspace="5"></a>
-  <a href="https://www.reddit.com/user/DezlowNG"><img src="https://user-images.githubusercontent.com/74720936/132026879-5e884ec9-1b84-49fd-b828-191d1e4d6d50.png" width="66" height="66" hspace="5"vspace="5"></a>
-  <a href="https://vk.com/dezlow"><img src="https://user-images.githubusercontent.com/74720936/132030749-02d92f11-0952-4aec-9a9b-d26a74a9dda6.png" width="66" height="66" hspace="5"vspace="5"></a>
-  <a href="https://open.spotify.com/user/31z32d5odfyuyyykagdvmfpzhwpy/"><img src="https://user-images.githubusercontent.com/74720936/132031299-50c37d03-5bec-48f3-bada-37c114b0f528.png" width="67" height="68" hspace="5"vspace="5"></a>
-  <a href="https://t.me/dezlow"><img src="https://user-images.githubusercontent.com/74720936/132041660-8292fac7-5af8-41b1-ae5d-c47ebec0f139.png" width="68" height="68" hspace="5"vspace="5"></a>
+  <a href="https://twitter.com/DezlowNG/"><img src="https://user-images.githubusercontent.com/74720936/133612270-297b5e07-3363-47ed-b3d5-ce698060df88.png" width="76" height="76" hspace="5"vspace="5"></a>
+  <a href="https://facebook.com/dezlowfb/"><img src="https://user-images.githubusercontent.com/74720936/133612274-58efe73c-b777-4e43-9cc8-8f5f520b446d.png" width="76" height="76" hspace="5"vspace="5"></a>
+  <a href="https://www.reddit.com/user/DezlowNG"><img src="https://user-images.githubusercontent.com/74720936/133612271-bc3eb3cf-5622-4167-aed2-9eac4f667803.png" width="76" height="76" hspace="5"vspace="5"></a>
+  <a href="https://vk.com/dezlow"><img src="https://user-images.githubusercontent.com/74720936/133612269-a9aa4826-140f-4b2d-b16e-99489a50f127.png" width="76" height="76" hspace="5"vspace="5"></a>
+  <a href="https://open.spotify.com/user/31z32d5odfyuyyykagdvmfpzhwpy/"><img src="https://user-images.githubusercontent.com/74720936/133612265-9f335cee-bd71-4616-9f67-873840ea3814.png" width="76" height="76" hspace="5"vspace="5"></a>
+  <a href="https://t.me/dezlow"><img src="https://user-images.githubusercontent.com/74720936/133612272-6ec2fd70-2a64-4ac5-9df7-2eff877c921f.png" width="76" height="76" hspace="5"vspace="5"></a>
+  <a href="https://www.youtube.com/channel/UCYV8min3NRKlG51P2GfZnKg"><img src="https://user-images.githubusercontent.com/74720936/133612948-58212243-ca3e-4b72-a759-dd195781ee43.png" width="76" height="76" hspace="5"vspace="5"></a>
 </p>
 
 #
 
 <h1 align="center">Support me:</h1>
 <p align="center">
-  <a href="https://www.patreon.com/dezlow"><img src="https://user-images.githubusercontent.com/74720936/132947453-90146f5a-1746-4c1b-a407-a541223391d5.png"></a>
+  <a href="https://www.patreon.com/dezlow"><img src="https://user-images.githubusercontent.com/74720936/133612280-bdcc1cb6-95c5-4f3b-9d99-1eb3c95b1535.png"  width="76" height="76"></a>
 </p>
 
 #
