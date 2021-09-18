@@ -4,12 +4,6 @@
   <a href="https://vk.com/mtdru"><img src="https://user-images.githubusercontent.com/74720936/122591769-a446c680-d08d-11eb-9a2b-3ac2de6f1f7a.png" hspace="5"vspace="5"></a>
 </p>
 
-<h1 align="center">About me:</h1>
-
-<h3 align="center">Interests — Programming, computer science and music</h3>
-<h3 align="center">The main in life — Perfecting the world</h3>
-<h3 align="center">The main in people — Kindness and honesty</h3>
-
 #
 
 <h1 align="center">Links to me:</h1>
