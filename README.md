@@ -28,8 +28,8 @@
 
 <h1 align="center">Stats:</h1>
 <p align="center">
-  <a href="https://wakatime.com/@Dezlow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dezlow&langs_count=5&theme=dark&range=all_time" hspace="5"vspace="5"></a>
-  <a href="https://github.com/DezlowNG"><img src="https://github-readme-stats.vercel.app/api/?username=DezlowNG&include_all_commits=true&theme=dark" hspace="5"vspace="5"></a>
+  <a href="https://wakatime.com/@Dezlow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dezlow&langs_count=5&theme=dark&range=all_time&" hspace="5"vspace="5"></a>
+  <a href="https://github.com/DezlowNG"><img src="https://github-readme-stats.vercel.app/api/?username=DezlowNG&include_all_commits=true&theme=dark&show_icons=true" hspace="5"vspace="5"></a>
 </p>
 
 #
