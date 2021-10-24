@@ -19,13 +19,6 @@
 
 #
 
-<h1 align="center">Support me:</h1>
-<p align="center">
-  <a href="https://www.patreon.com/dezlow"><img src="https://user-images.githubusercontent.com/74720936/133612280-bdcc1cb6-95c5-4f3b-9d99-1eb3c95b1535.png"  width="76" height="76"></a>
-</p>
-
-#
-
 <h1 align="center">Stats:</h1>
 <p align="center">
   <a href="https://wakatime.com/@Dezlow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dezlow&langs_count=5&theme=dark&range=all_time&" hspace="5"vspace="5"></a>
