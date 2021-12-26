@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
-  <a href="https://vk.com/mtdru"><img src="https://user-images.githubusercontent.com/74720936/122591769-a446c680-d08d-11eb-9a2b-3ac2de6f1f7a.png" hspace="5"vspace="5"></a>
+  <img src="https://user-images.githubusercontent.com/74720936/147407090-3f327e64-6343-4579-9a21-792d98dac232.png" hspace="5"vspace="5"></a>
 </p>
 
 #
