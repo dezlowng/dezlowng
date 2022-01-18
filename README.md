@@ -21,7 +21,9 @@
 
 <h1 align="center">Stats:</h1>
 <p align="center">
-  <a href="https://wakatime.com/@Dezlow"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dezlow&langs_count=5&theme=dark&range=all_time&" hspace="5"vspace="5"></a>
+  <a href="https://wakatime.com/@d2fc1fb3-8881-4cd8-bae5-e1febdcde3c6"><img src="https://wakatime.com/badge/user/d2fc1fb3-8881-4cd8-bae5-e1febdcde3c6.svg" alt="Total time coded since Apr 6 2021"/></a>
+</p>
+<p align="center">
   <a href="https://github.com/DezlowNG"><img src="https://github-readme-stats.vercel.app/api/?username=DezlowNG&include_all_commits=true&theme=dark&show_icons=true" hspace="5"vspace="5"></a>
 </p>
 
