@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74720936/147407090-3f327e64-6343-4579-9a21-792d98dac232.png" hspace="5"vspace="5"></a>
+  <img src="https://raw.githubusercontent.com/DezlowNG/DezlowNG.github.io/main/assets/img/background.jpg" hspace="5"vspace="5"></a>
 </p>
 
 #
