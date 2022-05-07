@@ -42,4 +42,4 @@
   <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080FF&height=130&section=footer&text=Made with &#10084&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080FF&height=145&section=footer&text=Made with &#10084&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=77"/>
