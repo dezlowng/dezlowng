@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080FF&height=180&section=header&text=Nikita Gordeev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DezlowNG&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=0080FF&fire=0080FF&currStreakLabel=0080FF" alt="Nikita Gordeev" /></div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DezlowNG&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=0080FF&fire=0080FF&currStreakLabel=0080FF" />
+</div>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DezlowNG&show_icons=true&count_private=true&hide_border=true&title_color=0080FF&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" /> 
