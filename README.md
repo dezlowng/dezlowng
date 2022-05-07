@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <h3>Main skills:<h3>
+  <h3>Main skills<h3>
   <img src="https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Lua-0D1117?style=for-the-badge&logo=lua&labelColor=0D1117" />
@@ -18,14 +18,14 @@
 </div>
 </div>
 <div align="center">
-  <h3>Tools:<h3>
+  <h3>Tools<h3>
   <img src="https://img.shields.io/badge/-CLion-0D1117?style=for-the-badge&logo=clion&logoColor=007ACC&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" />
 </div>
 
 <div align="center">
-  <h3 align="center">Links to me:</h3>
+  <h3 align="center">Links to me</h3>
   <a href="https://twitter.com/DezlowNG/"><img src="https://user-images.githubusercontent.com/74720936/133612270-297b5e07-3363-47ed-b3d5-ce698060df88.png" width="45" height="45" hspace="5"vspace="5"></a>
   <a href="https://facebook.com/dezlowfb/"><img src="https://user-images.githubusercontent.com/74720936/133612274-58efe73c-b777-4e43-9cc8-8f5f520b446d.png" width="45" height="45" hspace="5"vspace="5"></a>
   <a href="https://www.reddit.com/user/DezlowNG"><img src="https://user-images.githubusercontent.com/74720936/133612271-bc3eb3cf-5622-4167-aed2-9eac4f667803.png" width="45" height="45" hspace="5"vspace="5"></a>
@@ -37,7 +37,7 @@
 
 <div align="center">
   <br>
-    <p align="centre"><b>Visitors Count</b></p>  
+    <p align="centre"><b>Visitors count</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DezlowNG}/count.svg" /></p> 
   <br>
 </div>
