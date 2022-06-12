@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080FF&height=180&section=header&text=Nikita Gordeev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Nikita Gordeev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DezlowNG&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=0080FF&fire=0080FF&currStreakLabel=0080FF" />
@@ -18,10 +18,11 @@
   <img src="https://img.shields.io/badge/-OpenGL-0D1117?style=for-the-badge&logo=opengl&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Vulkan-0D1117?style=for-the-badge&logo=vulkan&labelColor=0D1117" />
 </div>
-</div>
+
 <div align="center">
   <h3>Tools<h3>
-  <img src="https://img.shields.io/badge/-CLion-0D1117?style=for-the-badge&logo=clion&logoColor=007ACC&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/-Visual Studio-0D1117?style=for-the-badge&logo=visualstudio&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/-CLion-0D1117?style=for-the-badge&logo=clion&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" />
 </div>
@@ -40,8 +41,8 @@
 <div align="center">
   <br>
     <p align="centre"><b>Visitors count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DezlowNG}/count.svg" /></p> 
+    <p align="center"><img align="center" src="https://count.getloli.com/get/@DezlowNG?theme=gelbooru" /></p> 
   <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080FF&height=145&section=footer&text=Made with &#10084&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=77"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=145&section=footer&text=Made with &#10084&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=77"/>
