@@ -40,8 +40,8 @@
 
 <div align="center">
   <br>
-    <p align="centre"><b>Visitors count</b></p>  
-    <p align="center"><img align="center" src="https://count.getloli.com/get/@DezlowNG?theme=gelbooru" /></p> 
+    <h3 align="center">Visitors count</h3>
+    <p align="center"><img align="center" src="https://count.getloli.com/get/@DezlowNG?theme=asoul" /></p> 
   <br>
 </div>
 
