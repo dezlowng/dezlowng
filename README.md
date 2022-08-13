@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Nikita Gordeev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Nikita%20Gordeev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DezlowNG&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=0080FF&fire=0080FF&currStreakLabel=0080FF" />
@@ -45,4 +45,4 @@
   <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=145&section=footer&text=Made with &#10084&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=77"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=145&section=footer&text=Made%20with%20&#10084&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=77"/>
