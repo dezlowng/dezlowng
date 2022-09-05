@@ -13,6 +13,7 @@
   <h3>Main skills<h3>
   <img src="https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Lua-0D1117?style=for-the-badge&logo=lua&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-CMake-0D1117?style=for-the-badge&logo=cmake&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-OpenGL-0D1117?style=for-the-badge&logo=opengl&labelColor=0D1117" />
