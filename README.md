@@ -22,10 +22,11 @@
 
 <div align="center">
   <h3>Tools<h3>
-  <img src="https://img.shields.io/badge/-Visual Studio-0D1117?style=for-the-badge&logo=visualstudio&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-CLion-0D1117?style=for-the-badge&logo=clion&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/-Rider-0D1117?style=for-the-badge&logo=rider&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/-IntelliJ IDEA-0D1117?style=for-the-badge&logo=intellijidea&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" />
 </div>
 
 <div align="center">
