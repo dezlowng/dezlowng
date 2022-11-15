@@ -15,9 +15,6 @@
   <img src="https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Lua-0D1117?style=for-the-badge&logo=lua&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-CMake-0D1117?style=for-the-badge&logo=cmake&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-OpenGL-0D1117?style=for-the-badge&logo=opengl&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Vulkan-0D1117?style=for-the-badge&logo=vulkan&labelColor=0D1117" />
 </div>
 
 <div align="center">
@@ -27,6 +24,7 @@
   <img src="https://img.shields.io/badge/-IntelliJ IDEA-0D1117?style=for-the-badge&logo=intellijidea&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/-CMake-0D1117?style=for-the-badge&logo=cmake&labelColor=0D1117" />
 </div>
 
 <div align="center">
