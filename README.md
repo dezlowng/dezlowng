@@ -13,15 +13,12 @@
   <h3>Main skills<h3>
   <img src="https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Lua-0D1117?style=for-the-badge&logo=lua&labelColor=0D1117" />
 </div>
 
 <div align="center">
   <h3>Tools<h3>
   <img src="https://img.shields.io/badge/-CLion-0D1117?style=for-the-badge&logo=clion&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Rider-0D1117?style=for-the-badge&logo=rider&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-IntelliJ IDEA-0D1117?style=for-the-badge&logo=intellijidea&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/-CMake-0D1117?style=for-the-badge&logo=cmake&labelColor=0D1117" />
@@ -31,8 +28,7 @@
   <h3 align="center">Links to me</h3>
   <a href="https://twitter.com/DezlowNG/"><img src="https://user-images.githubusercontent.com/74720936/133612270-297b5e07-3363-47ed-b3d5-ce698060df88.png" width="45" height="45" hspace="5"vspace="5"></a>
   <a href="https://facebook.com/dezlowfb/"><img src="https://user-images.githubusercontent.com/74720936/133612274-58efe73c-b777-4e43-9cc8-8f5f520b446d.png" width="45" height="45" hspace="5"vspace="5"></a>
-  <a href="https://www.reddit.com/user/DezlowNG"><img src="https://user-images.githubusercontent.com/74720936/133612271-bc3eb3cf-5622-4167-aed2-9eac4f667803.png" width="45" height="45" hspace="5"vspace="5"></a>
-  <a href="https://vk.com/dezlow"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74720936/133612269-a9aa4826-140f-4b2d-b16e-99489a50f127.png" width="45" height="45" hspace="5"vspace="5"></a>
+  <a href="https://vk.com/dezlowng"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74720936/133612269-a9aa4826-140f-4b2d-b16e-99489a50f127.png" width="45" height="45" hspace="5"vspace="5"></a>
   <a href="https://open.spotify.com/user/314yzgdufkiepbvyi4rbhjjn3vai?si=c4a3e576178946bc/"><img src="https://user-images.githubusercontent.com/74720936/133612265-9f335cee-bd71-4616-9f67-873840ea3814.png" width="45" height="45" hspace="5"vspace="5"></a>
   <a href="https://t.me/dezlow"><img src="https://user-images.githubusercontent.com/74720936/133612272-6ec2fd70-2a64-4ac5-9df7-2eff877c921f.png" width="45" height="45" hspace="5"vspace="5"></a>
   <a href="https://www.youtube.com/@dezlowng"><img src="https://user-images.githubusercontent.com/74720936/133612948-58212243-ca3e-4b72-a759-dd195781ee43.png" width="45" height="45" hspace="5"vspace="5"></a>
