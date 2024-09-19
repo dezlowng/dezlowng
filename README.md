@@ -6,7 +6,6 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iamfobey&show_icons=true&count_private=true&hide_border=true&title_color=0080FF&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamfobey&layout=compact&hide_border=true&langs_count=6&title_color=0080FF&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <div align="center">
